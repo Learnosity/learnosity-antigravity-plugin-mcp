@@ -1,0 +1,27 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "learnosity-build-aide",
+  "displayName": "Learnosity Build Aide",
+  "version": "1.0.0",
+  "description": "Build Learnosity integrations with answers from Learnosity's own documentation, API references and integration Skills, with citations.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Help me plan a Learnosity integration using the recommended APIs.",
+    "How do I sign an Items API request in Node.js?",
+    "Find the Learnosity documentation for embedding the Items API."
+  ],
+  "author": {
+    "name": "Learnosity",
+    "url": "https://learnosity.com"
+  },
+  "homepage": "https://help.learnosity.com/hc/en-us/sections/39503070619933",
+  "repository": "https://github.com/Learnosity/learnosity-antigravity-plugin-mcp",
+  "license": "GPL-3.0-only",
+  "keywords": [
+    "learnosity",
+    "mcp",
+    "assessment",
+    "developer-tools",
+    "api-integration"
+  ]
+}
